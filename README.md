@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PylonDev
-- 👀 I’m interested in Gaming
+- 👀 I’m interested in making Games and DAWs
 - 🌱 I’m currently learning C#
 
 <!---
